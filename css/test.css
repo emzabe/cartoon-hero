@@ -1,0 +1,14 @@
+body{
+	background-color: lightgrey;
+}
+
+h1{
+	color: orange;
+	font-size: 70px;
+	text-decoration: underline;	
+}
+
+h2{
+	font-size: 40px;
+	color: green;
+}		
